@@ -127,4 +127,21 @@ class NewPostViewController: UIViewController,
 			}
 		}
 	}
+
+	@IBAction func onUpdateProfileImageButton(_ sender: Any) {
+		let user = PFUser.current()!
+
+		let imageData = postImage.image?.pngData()
+		let imageObject = PFFileObject(data: imageData!)
+
+		user["profileImage"] = imageObject
+
+		user.saveInBackground { success, error in
+			if success {
+				self.dismiss(animated: true, completion: nil)
+			} else {
+				print("error updating profile Image: \(error!.localizedDescription)")
+			}
+		}
+	}
 }
