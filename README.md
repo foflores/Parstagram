@@ -1,38 +1,41 @@
-# Parstagram - Part II
+<div align="center">
+	<a href="https://www.github.com/foflores10/parstagram">
+		<img src="https://media.foflores.com/projects/parstagram/icon.png" width=128>
+	</a>
+	<h2>Parstagram</h2>
+</div>
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+## About The Project
 
-Time spent: **5** hours spent in total
+Parstgram is an instagram clone to learn about databases. The app connects to a custom Parse backend that allows users to post photos, view a global photos feed, and add comments.
 
-## User Stories
+## Part 2
 
-The following **required** functionality is completed:
+### User Stories
+
+#### Required
 
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can log out. (1pt)
 - [x] User can view comments on a post. (3pts)
 - [x] User can add a new comment. (5pts)
 
-The following **bonus** features are implemented:
+#### Bonus
 
 - [x] User can add a profile picture. (2pts)
 - [x] Profile pictures are shown for posts and comments. (2pts)
 
-## Video Walkthrough
+### App Walkthrough
 
-Here's a walkthrough of implemented user stories:
+<img src='https://media.foflores.com/projects/parstagram/parstagram2.gif' width=250><br>
 
-<img src='Gifs/Parstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+---
 
-# Parstagram - Part I
+## Part 1
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+### User Stories
 
-Time spent: **5** hours spent in total
-
-## User Stories
-
-The following **required** functionality is completed:
+#### Required
 
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can sign up to create a new account. (1pt)
@@ -40,13 +43,11 @@ The following **required** functionality is completed:
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
 - [x] User can view the last 20 posts. (4pts)
 
-The following **bonus** features are implemented:
+#### Bonus
 
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past posts infinitely. (2pts)
 
-## Video Walkthrough
+### App Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='Gifs/Parstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.foflores.com/projects/parstagram/parstagram.gif' width=250><br>
