@@ -2,7 +2,7 @@
 	<a href="https://www.github.com/foflores10/parstagram">
 		<img src="https://media.foflores.com/projects/parstagram/icon.png" width=128>
 	</a>
-	<h2>Parstagram</h2>
+	<h3>Parstagram</h3>
 </div>
 
 ## About The Project
@@ -15,21 +15,16 @@ Parstgram is an instagram clone to learn about databases. The app connects to a 
 
 #### Required
 
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can log out. (1pt)
-- [x] User can view comments on a post. (3pts)
-- [x] User can add a new comment. (5pts)
+- [x] (1pt) User stays logged in across restarts.
+- [x] (1pt) User can log out.
+- [x] (3pts) User can view comments on a post.
+- [x] (5pts) User can add a new comment.
 
 #### Bonus
 
-- [x] User can add a profile picture. (2pts)
-- [x] Profile pictures are shown for posts and comments. (2pts)
+- [x] (2pts) User can add a profile picture.
+- [x] (2pts) Profile pictures are shown for posts and comments.
 
-### App Walkthrough
-
-<img src='https://media.foflores.com/projects/parstagram/parstagram2.gif' width=250><br>
-
----
 
 ## Part 1
 
@@ -48,6 +43,8 @@ Parstgram is an instagram clone to learn about databases. The app connects to a 
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past posts infinitely. (2pts)
 
-### App Walkthrough
+---
 
-<img src='https://media.foflores.com/projects/parstagram/parstagram.gif' width=250><br>
+<div align="center">
+	<h3><a href="https://projects.foflores.com/parstagram">App Previews</a></h3>
+</div>
