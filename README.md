@@ -1,30 +1,8 @@
-<div align="center">
-	<a href="https://www.github.com/foflores10/parstagram">
-		<img src="https://media.foflores.com/projects/parstagram/icon.png" width=128>
-	</a>
-	<h3>Parstagram</h3>
-</div>
+# Parstagram
 
-## About The Project
+Instagram clone using a Parse backend.
 
-Parstgram is an instagram clone to learn about databases. The app connects to a custom Parse backend that allows users to post photos, view a global photos feed, and add comments.
-
-## Part 2
-
-### User Stories
-
-#### Required
-
-- [x] (1pt) User stays logged in across restarts.
-- [x] (1pt) User can log out.
-- [x] (3pts) User can view comments on a post.
-- [x] (5pts) User can add a new comment.
-
-#### Bonus
-
-- [x] (2pts) User can add a profile picture.
-- [x] (2pts) Profile pictures are shown for posts and comments.
-
+Created For: CodePath - iOS Development
 
 ## Part 1
 
@@ -43,8 +21,18 @@ Parstgram is an instagram clone to learn about databases. The app connects to a 
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past posts infinitely. (2pts)
 
----
+## Part 2
 
-<div align="center">
-	<h3><a href="https://projects.foflores.com/parstagram">App Previews</a></h3>
-</div>
+### User Stories
+
+#### Required
+
+- [x] (1pt) User stays logged in across restarts.
+- [x] (1pt) User can log out.
+- [x] (3pts) User can view comments on a post.
+- [x] (5pts) User can add a new comment.
+
+#### Bonus
+
+- [x] (2pts) User can add a profile picture.
+- [x] (2pts) Profile pictures are shown for posts and comments.
