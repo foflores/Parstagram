@@ -10,16 +10,16 @@ Created For: CodePath - iOS Development
 
 #### Required
 
-- [x] User sees app icon in home screen and styled launch screen. (1pt)
-- [x] User can sign up to create a new account. (1pt)
-- [x] User can log in. (1pt)
-- [x] User can take a photo, add a caption, and post it to the server. (3pt)
-- [x] User can view the last 20 posts. (4pts)
+- [x] (1pt) User sees app icon in home screen and styled launch screen.
+- [x] (1pt) User can sign up to create a new account.
+- [x] (1pt) User can log in. 
+- [x] (3pts) User can take a photo, add a caption, and post it to the server. 
+- [x] (4pts) User can view the last 20 posts. 
 
 #### Bonus
 
-- [x] User can pull to refresh. (1pt)
-- [x] User can load past posts infinitely. (2pts)
+- [x] (1pt) User can pull to refresh. 
+- [x] (2pts) User can load past posts infinitely. 
 
 ## Part 2
 
